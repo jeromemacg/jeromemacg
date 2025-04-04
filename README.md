@@ -37,4 +37,6 @@ You can click the Preview link to take a look at your changes.
 <div>
 <a href="https://thehomestore.techwave.hu/" target="_blank" >B2C SAP Commerce Storefront - Furniture & Homewares</a>
 </div>
-
+<div>
+<a href="https://telco.techwave.hu/" target="_blank" >B2C SAP Commerce Storefront - Telecoms provider</a>
+</div>
