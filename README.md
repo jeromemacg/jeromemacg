@@ -6,6 +6,8 @@
 - 📫 How to reach me - LinkedIn is best
 - ⚡ Fun fact: The first program I tried to write as a teenager was a home-made version of the 'Berzerk' aracade game. It was an epic fail, couldn't get the randomness right, so in each maze the robots rapidly homed in on the protagonist with an about 90% kill rate. I wish that everything I ever wrote after that was as efficient...
 
+<!-- Code I know and love -->
+
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
@@ -26,6 +28,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <div>
 	<p></p>
+	<!--- site links to old builds and platforms, mostly SAP Commerce. Will add more later when I have time. --->
 <p>Site links</p>
 </div>
 <div>
