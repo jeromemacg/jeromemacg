@@ -29,9 +29,9 @@ You can click the Preview link to take a look at your changes.
 <p>Site links</p>
 </div>
 <div>
-<a href="https://farm2fork.techwave.hu/en/USD/" target="blank" >B2B Commerce Storefront - Food Wholesale</a>
+<a href="https://farm2fork.techwave.hu/en/USD/" target="_blank" >B2B SAP Commerce Storefront - Food Wholesale</a>
 </div>
 <div>
-<a href="https://farm2fork.techwave.hu/en/USD/" >B2B Commerce Storefront - Food Wholesale</a>
+<a href="https://thehomestore.techwave.hu/" target="_blank" >B2C SAP Commerce Storefront - Furniture & Homewares</a>
 </div>
 
